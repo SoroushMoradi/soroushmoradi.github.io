@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/soroushmoradi.github.io/static/css/main.725d8eda.css",
-    "main.js": "/soroushmoradi.github.io/static/js/main.0ab358e1.js",
-    "static/js/453.87bdf6aa.chunk.js": "/soroushmoradi.github.io/static/js/453.87bdf6aa.chunk.js",
-    "index.html": "/soroushmoradi.github.io/index.html",
-    "main.725d8eda.css.map": "/soroushmoradi.github.io/static/css/main.725d8eda.css.map",
-    "main.0ab358e1.js.map": "/soroushmoradi.github.io/static/js/main.0ab358e1.js.map",
-    "453.87bdf6aa.chunk.js.map": "/soroushmoradi.github.io/static/js/453.87bdf6aa.chunk.js.map"
+    "main.css": "/static/css/main.725d8eda.css",
+    "main.js": "/static/js/main.adf3d6fd.js",
+    "static/js/453.87bdf6aa.chunk.js": "/static/js/453.87bdf6aa.chunk.js",
+    "index.html": "/index.html",
+    "main.725d8eda.css.map": "/static/css/main.725d8eda.css.map",
+    "main.adf3d6fd.js.map": "/static/js/main.adf3d6fd.js.map",
+    "453.87bdf6aa.chunk.js.map": "/static/js/453.87bdf6aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.725d8eda.css",
-    "static/js/main.0ab358e1.js"
+    "static/js/main.adf3d6fd.js"
   ]
 }
